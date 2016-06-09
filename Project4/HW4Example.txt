@@ -1,0 +1,87 @@
+Welcome to the UVa Class Scheduler!
+Enter a class (or quit): cs 1110
+Enter a class (or quit): cs 2102
+Enter a class (or quit): quit
+Include only classes with seats available? (y/n): y
+
+You have requested:
+cs 1110
+cs 2102
+
+Sections Available:
+
+Schedule 1:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+
+Schedule 2:
+CS 2102 001: Discrete Mathematics I (113/100) TuTh 1230-1345 @ Rice Hall 130 (0.0,0.0)
+CS 2102 002: Discrete Mathematics I (71/82) MoWe 1400-1515 @ Mechanical Engr Bldg 341 (0.0,0.0)
+CS 2102 003: Discrete Mathematics I (77/80) TuTh 1400-1515 @ Olsson Hall 005 (38.032068,-78.510969)
+
+Num Possible Schedules: 6
+
+Possible Schedules:
+
+Schedule 1:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+CS 2102 001: Discrete Mathematics I (113/100) TuTh 1230-1345 @ Rice Hall 130 (0.0,0.0)
+
+Schedule 2:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+CS 2102 001: Discrete Mathematics I (113/100) TuTh 1230-1345 @ Rice Hall 130 (0.0,0.0)
+
+Schedule 3:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+CS 2102 002: Discrete Mathematics I (71/82) MoWe 1400-1515 @ Mechanical Engr Bldg 341 (0.0,0.0)
+
+Schedule 4:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+CS 2102 002: Discrete Mathematics I (71/82) MoWe 1400-1515 @ Mechanical Engr Bldg 341 (0.0,0.0)
+
+Schedule 5:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+CS 2102 003: Discrete Mathematics I (77/80) TuTh 1400-1515 @ Olsson Hall 005 (38.032068,-78.510969)
+
+Schedule 6:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+CS 2102 003: Discrete Mathematics I (77/80) TuTh 1400-1515 @ Olsson Hall 005 (38.032068,-78.510969)
+
+Non-Conflicting Schedules:
+
+Schedule 1:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+CS 2102 001: Discrete Mathematics I (113/100) TuTh 1230-1345 @ Rice Hall 130 (0.0,0.0)
+
+Schedule 2:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+CS 2102 001: Discrete Mathematics I (113/100) TuTh 1230-1345 @ Rice Hall 130 (0.0,0.0)
+
+Schedule 3:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+CS 2102 002: Discrete Mathematics I (71/82) MoWe 1400-1515 @ Mechanical Engr Bldg 341 (0.0,0.0)
+
+Schedule 4:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+CS 2102 003: Discrete Mathematics I (77/80) TuTh 1400-1515 @ Olsson Hall 005 (38.032068,-78.510969)
+
+Schedule 5:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+CS 2102 003: Discrete Mathematics I (77/80) TuTh 1400-1515 @ Olsson Hall 005 (38.032068,-78.510969)
+
+Available Schedules:
+
+Schedule 1:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+CS 2102 002: Discrete Mathematics I (71/82) MoWe 1400-1515 @ Mechanical Engr Bldg 341 (0.0,0.0)
+
+Schedule 2:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+CS 2102 003: Discrete Mathematics I (77/80) TuTh 1400-1515 @ Olsson Hall 005 (38.032068,-78.510969)
+
+Schedule 3:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+CS 2102 003: Discrete Mathematics I (77/80) TuTh 1400-1515 @ Olsson Hall 005 (38.032068,-78.510969)
+
+Which schedule would you like to map?: 3
+http://maps.googleapis.com/maps/api/staticmap?zoom=16&size=1000x1000&maptype=roadmap&markers=38.032068,-78.510969&sensor=false

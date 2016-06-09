@@ -1,0 +1,199 @@
+Welcome to the UVa Class Scheduler!
+Enter a class (or quit): CS 1110
+Enter a class (or quit): STAT 2120
+Enter a class (or quit): HIME 2002
+Enter a class (or quit): ASTR 1210
+Enter a class (or quit): quit
+Include only classes with seats available? (y/n): y
+
+You have requested:
+CS 1110
+STAT 2120
+HIME 2002
+ASTR 1210
+
+Sections Available:
+
+Schedule 1:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+
+Schedule 2:
+STAT 2120 100: Introduction to Statistical Analysis (227/240) TuTh 930-1045 @ Chemistry Bldg 402 (38.034,-78.5109)
+STAT 2120 200: Introduction to Statistical Analysis (191/200) TuTh 1100-1215 @ Mcleod Hall 1020 (0.0,0.0)
+STAT 2120 300: Introduction to Statistical Analysis (199/200) MoWe 1400-1515 @ Maury Hall 209 (38.0336009,-78.5069422)
+
+Schedule 3:
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+
+Schedule 4:
+ASTR 1210 001: Introduction to the Sky and Solar System (141/135) MoWe 1400-1515 @ Clark Hall 107 (38.03282,-78.50836)
+ASTR 1210 002: Introduction to the Sky and Solar System (73/135) MoWeFr 1200-1250 @ Clark Hall 107 (38.03282,-78.50836)
+ASTR 1210 003: Introduction to the Sky and Solar System (52/135) MoWeFr 1000-1050 @ Clark Hall 107 (38.03282,-78.50836)
+
+Num Possible Schedules: 18
+
+Possible Schedules:
+
+Schedule 1:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+STAT 2120 100: Introduction to Statistical Analysis (227/240) TuTh 930-1045 @ Chemistry Bldg 402 (38.034,-78.5109)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 001: Introduction to the Sky and Solar System (141/135) MoWe 1400-1515 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 2:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 100: Introduction to Statistical Analysis (227/240) TuTh 930-1045 @ Chemistry Bldg 402 (38.034,-78.5109)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 001: Introduction to the Sky and Solar System (141/135) MoWe 1400-1515 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 3:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+STAT 2120 200: Introduction to Statistical Analysis (191/200) TuTh 1100-1215 @ Mcleod Hall 1020 (0.0,0.0)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 001: Introduction to the Sky and Solar System (141/135) MoWe 1400-1515 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 4:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 200: Introduction to Statistical Analysis (191/200) TuTh 1100-1215 @ Mcleod Hall 1020 (0.0,0.0)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 001: Introduction to the Sky and Solar System (141/135) MoWe 1400-1515 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 5:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+STAT 2120 300: Introduction to Statistical Analysis (199/200) MoWe 1400-1515 @ Maury Hall 209 (38.0336009,-78.5069422)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 001: Introduction to the Sky and Solar System (141/135) MoWe 1400-1515 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 6:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 300: Introduction to Statistical Analysis (199/200) MoWe 1400-1515 @ Maury Hall 209 (38.0336009,-78.5069422)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 001: Introduction to the Sky and Solar System (141/135) MoWe 1400-1515 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 7:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+STAT 2120 100: Introduction to Statistical Analysis (227/240) TuTh 930-1045 @ Chemistry Bldg 402 (38.034,-78.5109)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 002: Introduction to the Sky and Solar System (73/135) MoWeFr 1200-1250 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 8:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 100: Introduction to Statistical Analysis (227/240) TuTh 930-1045 @ Chemistry Bldg 402 (38.034,-78.5109)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 002: Introduction to the Sky and Solar System (73/135) MoWeFr 1200-1250 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 9:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+STAT 2120 200: Introduction to Statistical Analysis (191/200) TuTh 1100-1215 @ Mcleod Hall 1020 (0.0,0.0)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 002: Introduction to the Sky and Solar System (73/135) MoWeFr 1200-1250 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 10:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 200: Introduction to Statistical Analysis (191/200) TuTh 1100-1215 @ Mcleod Hall 1020 (0.0,0.0)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 002: Introduction to the Sky and Solar System (73/135) MoWeFr 1200-1250 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 11:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+STAT 2120 300: Introduction to Statistical Analysis (199/200) MoWe 1400-1515 @ Maury Hall 209 (38.0336009,-78.5069422)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 002: Introduction to the Sky and Solar System (73/135) MoWeFr 1200-1250 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 12:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 300: Introduction to Statistical Analysis (199/200) MoWe 1400-1515 @ Maury Hall 209 (38.0336009,-78.5069422)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 002: Introduction to the Sky and Solar System (73/135) MoWeFr 1200-1250 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 13:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+STAT 2120 100: Introduction to Statistical Analysis (227/240) TuTh 930-1045 @ Chemistry Bldg 402 (38.034,-78.5109)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 003: Introduction to the Sky and Solar System (52/135) MoWeFr 1000-1050 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 14:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 100: Introduction to Statistical Analysis (227/240) TuTh 930-1045 @ Chemistry Bldg 402 (38.034,-78.5109)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 003: Introduction to the Sky and Solar System (52/135) MoWeFr 1000-1050 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 15:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+STAT 2120 200: Introduction to Statistical Analysis (191/200) TuTh 1100-1215 @ Mcleod Hall 1020 (0.0,0.0)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 003: Introduction to the Sky and Solar System (52/135) MoWeFr 1000-1050 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 16:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 200: Introduction to Statistical Analysis (191/200) TuTh 1100-1215 @ Mcleod Hall 1020 (0.0,0.0)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 003: Introduction to the Sky and Solar System (52/135) MoWeFr 1000-1050 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 17:
+CS 1110 001: Introduction to Programming (200/275) MoWeFr 1500-1550 @ Chemistry Bldg 402 (38.034,-78.5109)
+STAT 2120 300: Introduction to Statistical Analysis (199/200) MoWe 1400-1515 @ Maury Hall 209 (38.0336009,-78.5069422)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 003: Introduction to the Sky and Solar System (52/135) MoWeFr 1000-1050 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 18:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 300: Introduction to Statistical Analysis (199/200) MoWe 1400-1515 @ Maury Hall 209 (38.0336009,-78.5069422)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 003: Introduction to the Sky and Solar System (52/135) MoWeFr 1000-1050 @ Clark Hall 107 (38.03282,-78.50836)
+
+Non-Conflicting Schedules:
+
+Schedule 1:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 100: Introduction to Statistical Analysis (227/240) TuTh 930-1045 @ Chemistry Bldg 402 (38.034,-78.5109)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 002: Introduction to the Sky and Solar System (73/135) MoWeFr 1200-1250 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 2:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 200: Introduction to Statistical Analysis (191/200) TuTh 1100-1215 @ Mcleod Hall 1020 (0.0,0.0)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 002: Introduction to the Sky and Solar System (73/135) MoWeFr 1200-1250 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 3:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 100: Introduction to Statistical Analysis (227/240) TuTh 930-1045 @ Chemistry Bldg 402 (38.034,-78.5109)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 003: Introduction to the Sky and Solar System (52/135) MoWeFr 1000-1050 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 4:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 200: Introduction to Statistical Analysis (191/200) TuTh 1100-1215 @ Mcleod Hall 1020 (0.0,0.0)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 003: Introduction to the Sky and Solar System (52/135) MoWeFr 1000-1050 @ Clark Hall 107 (38.03282,-78.50836)
+
+Available Schedules:
+
+Schedule 1:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 100: Introduction to Statistical Analysis (227/240) TuTh 930-1045 @ Chemistry Bldg 402 (38.034,-78.5109)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 002: Introduction to the Sky and Solar System (73/135) MoWeFr 1200-1250 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 2:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 200: Introduction to Statistical Analysis (191/200) TuTh 1100-1215 @ Mcleod Hall 1020 (0.0,0.0)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 002: Introduction to the Sky and Solar System (73/135) MoWeFr 1200-1250 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 3:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 100: Introduction to Statistical Analysis (227/240) TuTh 930-1045 @ Chemistry Bldg 402 (38.034,-78.5109)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 003: Introduction to the Sky and Solar System (52/135) MoWeFr 1000-1050 @ Clark Hall 107 (38.03282,-78.50836)
+
+Schedule 4:
+CS 1110 002: Introduction to Programming (281/315) MoWeFr 1300-1350 @ Gilmer Hall 130 (0.0,0.0)
+STAT 2120 200: Introduction to Statistical Analysis (191/200) TuTh 1100-1215 @ Mcleod Hall 1020 (0.0,0.0)
+HIME 2002 100: History of the Middle East and North Africa, ca. 1500-Present (52/60) MoWe 1400-1515 @ Nau 211 (0.0,0.0)
+ASTR 1210 003: Introduction to the Sky and Solar System (52/135) MoWeFr 1000-1050 @ Clark Hall 107 (38.03282,-78.50836)
+
+Which schedule would you like to map?: 3
+http://maps.googleapis.com/maps/api/staticmap?zoom=16&size=1000x1000&maptype=roadmap&markers=38.034,-78.5109&markers=38.03282,-78.50836&sensor=false
